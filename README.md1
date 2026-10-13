@@ -1,0 +1,5 @@
+bài 2
+input: một số nguyên dương n
+output: thông báo n có phải 1 số nguyên tố hay không
+example:nhập :n=7
+kết quả :n là số nguyên tố
