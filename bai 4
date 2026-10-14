@@ -1,0 +1,4 @@
+input:2 số nguyên dương a,b
+output:BCNN của a và b
+example: a=12;b=18
+       kết quả :BCNN=36
