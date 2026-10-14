@@ -1,0 +1,5 @@
+input:số nguyên dương n
+      dãy n số nguyên
+output:số lớn nhất trong mảng
+example:n=5,dãy 3,7,2,9,5
+         kết quả:số lớn nhất =9
